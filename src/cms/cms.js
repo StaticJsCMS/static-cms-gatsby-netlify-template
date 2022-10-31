@@ -1,4 +1,4 @@
-import CMS from "netlify-cms-app";
+import CMS from "@staticcms/core";
 
 import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
