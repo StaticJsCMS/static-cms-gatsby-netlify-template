@@ -5975,10 +5975,10 @@ gatsby-plugin-sharp@^4.0.0:
     sharp "^0.30.7"
     svgo "^2.8.0"
 
-gatsby-plugin-static-cms@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-static-cms/-/gatsby-plugin-static-cms-1.0.0.tgz#d2350ce3467512ff2900fd82b86aa7b03b20fccc"
-  integrity sha512-8R2pzfTBaC2OBIbxnZT/2cLFNhWURV5WkPa52iGrEgqW2c7W9TI661w/flMa1S/dit0BmJ7mPWTfNOb2mt0plQ==
+gatsby-plugin-static-cms@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-static-cms/-/gatsby-plugin-static-cms-1.0.1.tgz#7f3ebc770bb8f12b4a2fa09c23f024b517155c36"
+  integrity sha512-2y95ApIpucROGP0s151+69wfTil51nlJnpi/CBoT0+mMPDbnNx3J1rUwsZvpep9+N8dNajAwn7VFoWSQxsNMgg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@soda/friendly-errors-webpack-plugin" "1.8.1"
