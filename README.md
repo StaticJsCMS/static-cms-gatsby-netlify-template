@@ -1,52 +1,31 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Static CMS's Gatsby blog starter
-</h1>
+# Gatsby template for Static CMS with Netlify Identity
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This is a small business template built with [Gatsby](https://www.gatsbyjs.com/) and [Static CMS](https://github.com/StaticJsCMS/static-cms).
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+## Getting started
 
-## 🚀 Quick start
+Use our deploy button to get your own copy of the repository. 
 
-1.  **Create a Gatsby site.**
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template&amp;stack=cms)
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
+This will setup everything needed for running the CMS:
 
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template
-    ```
+* A new repository in your GitHub account with the code
+* Full Continuous Deployment to Netlify's global CDN network
+* Control users and access with Netlify Identity
+* Manage content with Static CMS
 
-1.  **Start developing.**
+Once the initial build finishes, you will receive an "Invite" email to login to Static CMS.
 
-    Navigate into your new site’s directory and start it up.
+Now you're all set, and you can start editing content!
 
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+## Local Development
 
-1.  **Open the source code and start editing!**
+Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
 
-    Your site is now running at `http://localhost:8000`!
+Then start the development server with `yarn start` or `npm start`.
 
-    Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
-
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template)
-
-## 🧐 What's inside?
+## What's inside?
 
 A quick look at the top-level files and directories you'll see in a typical Gatsby project.
 
@@ -90,7 +69,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
+## Deploy
 
 [Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/products/cloud/)
 
