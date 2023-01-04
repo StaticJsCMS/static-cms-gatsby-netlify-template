@@ -11,13 +11,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Static CMS`,
+      summary: `. A Git-based CMS for Static Site Generators`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A Git-based CMS for Static Site Generators`,
+    siteUrl: `https://static-cms-gatsby.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `StaticJsCMS`,
     },
   },
   plugins: [
