@@ -2,14 +2,13 @@
   "name": "static-cms-gatsby-netlify-template",
   "version": "1.0.0-beta.0",
   "license": "MIT",
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A starter for a blog powered by Gatsby and Static CMS",
   "repository": "https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template",
   "bugs": "https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template/issues",
   "keywords": [
     "gatsby",
     "static",
     "cms",
-    "core",
     "netlify"
   ],
   "scripts": {
