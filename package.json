@@ -22,7 +22,7 @@
   "dependencies": {
     "@fontsource/merriweather": "4.5.14",
     "@fontsource/montserrat": "4.5.13",
-    "@staticcms/core": "1.0.0",
+    "@staticcms/core": "1.1.3",
     "gatsby": "5.4.2",
     "gatsby-plugin-feed": "5.4.0",
     "gatsby-plugin-image": "3.4.0",
