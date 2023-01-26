@@ -15,7 +15,7 @@ module.exports = {
       summary: `. A Git-based CMS for Static Site Generators`,
     },
     description: `A Git-based CMS for Static Site Generators`,
-    siteUrl: `https://static-cms-gatsby.netlify.app/`,
+    siteUrl: `https://gatsby.staticcms.org/`,
     social: {
       twitter: `StaticJsCMS`,
     },
