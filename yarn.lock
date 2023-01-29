@@ -2763,25 +2763,25 @@
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
 
-"@staticcms/app@1.2.5":
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/@staticcms/app/-/app-1.2.5.tgz#357c5cb432637efc5955269cb46b8b95e106e930"
-  integrity sha512-QGOW/MV03XBCYlMWhc2DgsX1DNyReAcYN8BiCcHje4wfNb55VKxvBPQ+Dp8oVl5byGdlS58hXWo/SF00WAyxfA==
+"@staticcms/app@1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@staticcms/app/-/app-1.2.6.tgz#4bee94b0a00e75ab6019c6f20a8404f520c12d9a"
+  integrity sha512-HTKwdzkJkj31eOynbqi+5yZFxmEe50o2lo4M/d+AW3t4bgXbeKo+cQ4BUkelz99zUsUr5Qu7FteDRH1assjqTQ==
   dependencies:
     "@babel/eslint-parser" "7.19.1"
     "@babel/runtime" "7.20.13"
     "@emotion/babel-preset-css-prop" "11.10.0"
-    "@staticcms/core" "^1.2.5"
+    "@staticcms/core" "^1.2.6"
     buffer "6.0.3"
     react "18.2.0"
     react-dom "18.2.0"
     stream-browserify "3.0.0"
     ts-loader "9.4.2"
 
-"@staticcms/core@^1.2.5":
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/@staticcms/core/-/core-1.2.5.tgz#eb904fe984ba868e4a1eba4d03355c4754be4596"
-  integrity sha512-br2oF0kSGhTpc/Deu6kLXmdozk1WCjz+mI7lSDwQfVWmRo4/8p8ZjPq/Gt6DTmSNOAiaPPukxybaZyT1AsMizg==
+"@staticcms/core@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@staticcms/core/-/core-1.2.6.tgz#92259f98eeb6f8ae6ee173ff5a86f840a5f6f75f"
+  integrity sha512-a9muJ3NDgWCpNNCb6/4h31fbw4r+CpcbJXR6P266Z13YNtk59lzFJu7+WvRq+tC8AuKOexr4eSl8GSG0jP0Tkg==
   dependencies:
     "@babel/eslint-parser" "7.19.1"
     "@babel/runtime" "7.20.13"
