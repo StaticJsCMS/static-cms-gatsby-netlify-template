@@ -22,7 +22,12 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
-    `gatsby-plugin-static-cms`,
+    {
+      resolve: 'gatsby-plugin-static-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
