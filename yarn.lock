@@ -8107,10 +8107,10 @@ gatsby-plugin-sharp@5.7.0:
     semver "^7.3.8"
     sharp "^0.31.3"
 
-gatsby-plugin-static-cms@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-static-cms/-/gatsby-plugin-static-cms-2.0.0.tgz#8e084bb2384040962a8e401cf8bcda480d50e478"
-  integrity sha512-o7xK/0Vlzu8hSyzB+bop+BcW7UD1w43tJYJm0LfXjZn3aUxVsQncflu3YsMDZe6oy2D6jeBFuMBGiKF9enBLog==
+gatsby-plugin-static-cms@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-static-cms/-/gatsby-plugin-static-cms-2.0.1.tgz#e0f789177267ecd27c927e21795f03da8395fac3"
+  integrity sha512-9A3q1TWqdzUsuzXvQiVdJeaW35Acj7QTuALe3xVy4nNOvfBBgKv128Y451uF5sZWTt+D7ZoLE30cH+1EB5mwMg==
   dependencies:
     "@babel/runtime" "7.21.0"
     "@soda/friendly-errors-webpack-plugin" "1.8.1"
