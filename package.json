@@ -20,8 +20,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@fontsource/merriweather": "^4.5.14",
-    "@fontsource/montserrat": "^4.5.14",
+    "@fontsource/merriweather": "^5.0.0",
+    "@fontsource/montserrat": "^5.0.0",
     "@staticcms/app": "^4.0.0",
     "gatsby": "^5.7.0",
     "gatsby-plugin-feed": "^5.7.0",
